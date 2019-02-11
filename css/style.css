@@ -13,52 +13,74 @@
 .head{
 	vertical-align: middle;
 	margin: 49px 313px 0px 313px;
-/*}
+}
 .clear{
 	clear: both;
 }
 .logo{
 	width: 151px;
 	display: inline-block;
-	margin: 22px 22px 22px 22px;
+	margin-right: 22px;
 	float: right;
 }
 .text{
 	font-size: 14px;
-	width: 387px;
+	width: 340px;
 	font-family: 'Staatliches', cursive;
 	float: left;
-	height: 160px;
+	margin-bottom: 100px;
 }
-.text2{
-	margin: 25px 20px 47px 0px;
-	font-size: 14px;
-	height: 112px;
+.paragraph{
 	font-family: 'Staatliches', cursive;
+	font-size: 14px;
+	float: left;
+	margin-bottom: 100px;
 }
 .wrapper{
 	background-color: #FCEE21;
-	width: 617px;
+	width: 580px;
 	height: 355px;
-	margin-right: 100px;
+	margin-top: 60px;
+    margin-left: -200px;
 	margin-bottom: 80px; 
 	padding: 22px 0 0 22px;
+	float: left;
 }
-.container{
- margin-top: 264px;
-}
-.box-child{
-	height: 250px;
-}
-.box{
-	height: 162px;
+.logo2{
+	width: 200px;
+	float: right;
+	margin-right: -215px;
+	margin-top: 10px;
 }
 .wrapper2{
+	float: right;
 	background-color: #FCEE21;
-	width: 617px;
-	height: 355px;
-	margin-right: 300px;
-	margin-bottom: 80px; 
-	padding: 22px 0 0 22px;
+	width: 520px;
+	height: 355px; 
+	padding: 22px 22px 0 22px;
+	margin-right: 120px;
+	margin-top: 58px;
 }
-*/
+.text2{
+	font-size: 14px;
+	color: #006837;
+	width: 340px;
+	font-family: 'Staatliches', cursive;
+	float: right;
+	margin-bottom: 100px;	
+	margin-left: 10px;
+}
+.paragraph2{
+	font-family: 'Staatliches', cursive;
+	color: #006837;
+	font-size: 14px;
+	float: right;
+	margin-bottom: 100px;
+}
+
+.logo3{
+	width: 150px;
+	float: left;
+	margin-top: 10px;
+
+}
